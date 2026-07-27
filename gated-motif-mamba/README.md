@@ -1,7 +1,5 @@
 # gated-motif-mamba
 
-Minimal GitHub-ready repo for the `Mamba-2 + input gate + state PQ motif` variant used in the LTC experiments.
-
 This folder keeps:
 
 - the modified `gated_motif_mamba_ssm` core implementation
@@ -100,11 +98,3 @@ pip install -e . --no-build-isolation
 ```
 
 If `selective_scan_cuda` is not already available in your environment, this command will build it from `csrc/selective_scan`.
-
-## GitHub Note
-
-The base model is intentionally not included here.
-It will be provided later through Hugging Face.
-
-The main adapter checkpoint is also intentionally not included here.
-It will be provided later through Hugging Face.
