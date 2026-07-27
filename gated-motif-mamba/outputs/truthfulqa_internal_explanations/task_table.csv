@@ -1,0 +1,2 @@
+task,total,correct,wrong,refusal,correct_rate,wrong_rate,refusal_rate,answer_rate,answer_accuracy,signed_utility
+truthfulqa_mc1,817,235,334,248,0.2876376988984088,0.408812729498164,0.30354957160342716,0.6964504283965728,0.4130052724077329,-0.1211750305997552
